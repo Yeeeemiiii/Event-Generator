@@ -1,3 +1,5 @@
+Written by Yẹmí
+
 # ICS Event Generator with Embedded PDF
 
 A local Python tool to generate an `.ics` calendar file with a fully embedded PDF attachment (encoded in Base64). 
@@ -37,4 +39,4 @@ This script is highly useful for generating event tickets that you want to send 
 While valid under the iCalendar specification, many web-based calendars (like Google Calendar) and some Outlook versions silently strip Base64 inline attachments due to size. This tool is best utilized for direct-to-device delivery (like sending via iMessage to an iPhone/Mac). 
 
 ---
-*Written by Yemi.*
+Written by Yẹmí
